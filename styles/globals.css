@@ -102,6 +102,7 @@ a {
 
 input {
   padding: 0.5rem;
+  border-radius: var(--border-radius);
 }
 
 @media (prefers-color-scheme: dark) {
